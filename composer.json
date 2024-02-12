@@ -14,6 +14,6 @@
 			"email": "Juanco.Morton@icloud.com"
 		}
 	],
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
 	"require": {}
 }
