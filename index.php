@@ -1,4 +1,8 @@
 <?php
 
 
-echo "Run tests";
+require 'vendor/autoload.php';
+
+use Elegantwork\arrays;
+
+arrays::pp([11]);
