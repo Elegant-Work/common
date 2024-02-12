@@ -8,7 +8,8 @@ namespace Elegantwork\Common;
 class arrays
 {
 
-	public function pp(array $Array, bool $Return = false): ?string
+	//Debugging output
+	public static function pp(array $Array, bool $Return = false): ?string
 	{
 		if ($Return) {
 			return "<pre>" . print_r($Array, true) . "</pre>";
