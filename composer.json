@@ -1,0 +1,19 @@
+{
+    "name": "elegant-work/common",
+    "description": "Common re-usable functions written in house by the elegant work group development team.",
+    "type": "library",
+    "license": "Closed Source",
+    "autoload": {
+        "psr-4": {
+            "ElegantWork\\Common\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juanco Morton",
+            "email": "Juanco.Morton@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
