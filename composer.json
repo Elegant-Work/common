@@ -3,6 +3,11 @@
 	"description": "Common re-usable functions written in house by the elegant work group development team.",
 	"type": "library",
 	"license": "proprietary",
+	"autoload": {
+		"psr-4": {
+			"Elegantwork\\": "src/"
+		}
+	},
 	"authors": [
 		{
 			"name": "Juanco Morton",
