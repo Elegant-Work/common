@@ -1,6 +1,6 @@
 <?php
 
-namespace Elegantwork\Common;
+namespace Elegantwork;
 
 /**
  * Used to manipulate arrays
